@@ -1,0 +1,46 @@
+#love{
+    display:flex;
+
+}
+#Dog{
+     width: 725px;
+     height:700px;
+     background-color: red;
+
+}
+#cat{
+    flex:1;
+    width:725px;
+    height:700px;
+    background-color: blue;
+}
+#d{
+    color:black;
+    position:absolute;
+    right:1100px;
+    bottom:350px;
+}
+#c{
+    color:black;
+    position:absolute;
+    right:315px;
+    bottom:350px;
+
+}
+#L{
+    width:300px;
+    height:200px;
+    background-color:white;
+    position:absolute;
+    right:1000px;
+    bottom:150px;
+}
+#C{
+    width:300px;
+    height:200px;
+    background-color:white;
+    position:absolute;
+    right:215px;
+    bottom:150px;
+
+}
